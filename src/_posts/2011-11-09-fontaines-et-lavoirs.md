@@ -2,7 +2,7 @@
 layout: post
 title: FONTAINES ET LAVOIRS
 Date: 2011-11-09 22:42
-categories: LE VILLAGE ET SON PATRIMOINE
+categories: ["LE VILLAGE ET SON PATRIMOINE"]
 tag: fontaines-et-lavoirs
 ---
  

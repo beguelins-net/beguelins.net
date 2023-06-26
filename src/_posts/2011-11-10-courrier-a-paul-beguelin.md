@@ -2,7 +2,7 @@
 layout: post
 title: COURRIER A PAUL BEGUELIN
 Date: 2011-11-10 14:33
-categories: LA VIE DU VILLAGE
+categories: ["LA VIE DU VILLAGE"]
 tag: courrier-a-paul-beguelin
 ---
 

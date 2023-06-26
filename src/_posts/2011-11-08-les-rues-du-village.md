@@ -2,7 +2,7 @@
 layout: post
 title: LES RUES DU VILLAGE
 Date: 2011-11-08 17:20
-categories: CIRCULER AU VILLAGE
+categories: [ "CIRCULER AU VILLAGE" ]
 tag: les-rues-du-village
 ---
  

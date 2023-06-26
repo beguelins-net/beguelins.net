@@ -2,7 +2,7 @@
 layout: post
 title: LES VIDE-GRENIERS
 Date: 2014-03-13 15:21
-categories: LA VIE DE L'ASSOCIATION
+categories: ["LA VIE DE L'ASSOCIATION"]
 tag: les-vide-greniers
 ---
 

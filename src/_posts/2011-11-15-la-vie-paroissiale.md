@@ -2,7 +2,7 @@
 layout: post
 title: LA VIE PAROISSIALE
 Date: 2011-11-15 20:37
-categories: L'EGLISE ET LA VIE PAROISSIALE
+categories: ["L'ÉGLISE ET LA VIE PAROISSIALE"]
 tag: la-vie-paroissiale
 ---
 

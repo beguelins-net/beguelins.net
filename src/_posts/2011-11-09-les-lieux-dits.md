@@ -2,7 +2,7 @@
 layout: post
 title: LES LIEUX DITS
 Date: 2011-11-09 17:17
-categories: CIRCULER AU VILLAGE
+categories: ["CIRCULER AU VILLAGE"]
 tag: les-lieux-dits
 ---
  
@@ -22,7 +22,7 @@ tag: les-lieux-dits
 -   Lantenay, Capellanus de Lentenai en 1205, Lentenais vers 1250,
     Lentenay en 1265, Lenthenay en 1299-1369, Lentheney en 1430.
 
--   Selon Désiré MONNIER : études archéologique du Bugey (p.47)
+-   Selon Désiré MONNIER : études archéologiques du Bugey (p.47)
 
 « Le même peuple qui avait établi Olynthe dans la Chalcidique, avait
 aussi établi Linde, près de Chalcé, dans les îles d’Asie, aux environs

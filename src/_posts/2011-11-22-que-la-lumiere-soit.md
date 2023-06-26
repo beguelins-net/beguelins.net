@@ -2,7 +2,7 @@
 layout: post
 title: QUE LA LUMIERE SOIT
 Date: 2011-11-22 15:21
-categories: HISTOIRE D'ENERGIE
+categories: ["HISTOIRE D'ÉNERGIE"]
 tag: que-la-lumiere-soit
 ---
  

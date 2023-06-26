@@ -1,8 +1,8 @@
 ---
 layout: post
-title: RECHERCHES PETROLIERES
+title: RECHERCHES PÉTROLIÈRES
 Date: 2011-11-22 16:43
-categories: HISTOIRE D'ENERGIE
+categories: ["HISTOIRE D'ÉNERGIE"]
 tag: recherches-petrolieres
 ---
  

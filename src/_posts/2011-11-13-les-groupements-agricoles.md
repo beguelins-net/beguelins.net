@@ -2,7 +2,7 @@
 layout: post
 title: LES GROUPEMENTS AGRICOLES
 Date: 2011-11-13 22:37
-categories: LA VIE AGRICOLE
+categories: ["LA VIE AGRICOLE"]
 tag: les-groupements-agricoles
 ---
 

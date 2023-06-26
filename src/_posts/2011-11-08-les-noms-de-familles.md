@@ -2,7 +2,7 @@
 layout: post
 title: LES NOMS DE FAMILLES
 Date: 2011-11-08 13:41
-categories: LA VIE DU VILLAGE
+categories: ["LA VIE DU VILLAGE" ]
 tag: les-noms-de-familles
 ---
 

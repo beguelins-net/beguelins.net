@@ -1,8 +1,8 @@
 ---
 layout: post
-title: EGLISE PAROISSIALE LANTENAY OUTRIAZ
+title: ÉGLISE PAROISSIALE LANTENAY OUTRIAZ
 Date: 2011-11-17 21:13
-categories: L'EGLISE ET LA VIE PAROISSIALE
+categories: ["L'ÉGLISE ET LA VIE PAROISSIALE"]
 tag: eglise-paroissiale-lantenay-outriaz
 ---
  

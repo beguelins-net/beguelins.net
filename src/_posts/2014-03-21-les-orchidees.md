@@ -1,8 +1,8 @@
 ---
 layout: post
-title: LES ORCHIDEES
+title: LES ORCHIDÉES
 Date: 2014-03-21 14:12
-categories: LE VILLAGE ET SON PATRIMOINE
+categories: ["LE VILLAGE ET SON PATRIMOINE"]
 tag: les-orchidees
 ---
 

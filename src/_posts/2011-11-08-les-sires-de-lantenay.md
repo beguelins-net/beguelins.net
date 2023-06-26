@@ -2,7 +2,7 @@
 layout: post
 title: LES SIRES DE LANTENAY
 Date: 2011-11-08 11:31
-categories: HISTOIRE
+categories: ["HISTOIRE"]
 tag: les-sires-de-lantenay
 ---
  

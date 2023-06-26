@@ -1,8 +1,8 @@
 ---
 layout: post
-title: LE BATIMENT MAIRIE ECOLE
+title: LE BÂTIMENT MAIRIE ÉCOLE
 Date: 2011-11-17 20:37
-categories: LA VIE DU VILLAGE
+categories: ["LA VIE DU VILLAGE"]
 tag: le-batiment-mairie-ecole
 ---
  

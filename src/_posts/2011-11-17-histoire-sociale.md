@@ -2,7 +2,7 @@
 layout: post
 title: HISTOIRE SOCIALE
 Date: 2011-11-17 16:28
-categories: LA VIE DU VILLAGE
+categories: ["LA VIE DU VILLAGE"]
 tag: histoire-sociale
 ---
  

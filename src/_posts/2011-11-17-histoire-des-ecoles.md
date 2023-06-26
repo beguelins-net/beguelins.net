@@ -1,8 +1,8 @@
 ---
 layout: post
-title: HISTOIRE DES ECOLES
+title: HISTOIRE DES ÉCOLES
 Date: 2011-11-17 18:03
-categories: LA VIE DU VILLAGE
+categories: ["LA VIE DU VILLAGE"]
 tag: histoire-des-ecoles
 ---
  

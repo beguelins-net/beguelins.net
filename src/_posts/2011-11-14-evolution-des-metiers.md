@@ -2,7 +2,7 @@
 layout: post
 title: EVOLUTION DES METIERS
 Date: 2011-11-14 16:40
-categories: LA VIE DU VILLAGE
+categories: ["LA VIE DU VILLAGE"]
 tag: evolution-des-metiers
 ---
  

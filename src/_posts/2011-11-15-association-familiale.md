@@ -2,7 +2,7 @@
 layout: post
 title: ASSOCIATION FAMILIALE
 Date: 2011-11-15 11:37
-categories: LA VIE DU VILLAGE
+categories: ["LA VIE DU VILLAGE"]
 tag: association-familiale
 ---
  

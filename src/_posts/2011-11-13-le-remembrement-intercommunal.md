@@ -2,7 +2,7 @@
 layout: post
 title: LE REMEMBREMENT INTERCOMMUNAL
 Date: 2011-11-13 21:45
-categories: LA VIE AGRICOLE
+categories: ["LA VIE AGRICOLE"]
 tag: le-remembrement-intercommunal
 ---
  

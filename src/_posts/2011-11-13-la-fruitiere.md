@@ -1,8 +1,8 @@
 ---
 layout: post
-title: LA FRUITIERE
+title: LA FRUITIÈRE
 Date: 2011-11-13 22:21
-categories: LA VIE AGRICOLE
+categories: ["LA VIE AGRICOLE"]
 tag: la-fruitiere
 ---
  

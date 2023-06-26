@@ -2,7 +2,7 @@
 layout: post
 title: TRAVAILLER LA TERRE
 Date: 2011-11-13 21:27
-categories: LA VIE AGRICOLE
+categories: ["LA VIE AGRICOLE"]
 tag: travailler-la-terre
 ---
 

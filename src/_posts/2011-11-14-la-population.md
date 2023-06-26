@@ -2,7 +2,7 @@
 layout: post
 title: LA POPULATION
 Date: 2011-11-14 20:09
-categories: LA VIE DU VILLAGE
+categories: ["LA VIE DU VILLAGE"]
 tag: la-population
 ---
  

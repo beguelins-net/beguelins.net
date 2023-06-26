@@ -2,7 +2,7 @@
 layout: post
 title: LANTENAY VU PAR
 Date: 2011-11-08 11:22
-categories: HISTOIRE
+categories: ["HISTOIRE"]
 tag: lantenay-vu-par
 ---
  

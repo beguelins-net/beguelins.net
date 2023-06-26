@@ -2,164 +2,145 @@
 layout: post
 title: CARTES POSTALES ET VUES DU CIEL
 Date: 2011-11-22 17:29
-categories: EXPOSITION 2011
+categories: ["EXPOSITION 2011"]
 tag: cartes-postales-et-vues-du-ciel
 ---
  
 
-\\r
+
 
 ![clip_image002]
 
-\\r
 
- ![clip_image004]
 
-\\r
+![clip_image004]
+
+
 
 ![clip_image006]![clip_image008]
 
-\\r
+
 
 ![clip_image010]
 
-\\r
+
 
 ![clip_image012]
 
-\\r
+
 
 ***Dans les années 1960***
 
-\\r
+
 
 ![clip_image014]
 
-\\r
 
- ![clip_image016]
 
-\\r
+![clip_image016]
+
+
 
 ***Dans les années 1970***
 
-\\r
+
 
 ![clip_image018]![clip_image020]
 
-\\r
+
 
 ![clip_image022]
 
-\\r
+
 
 ***Au début du troisième millénaire...***
 
-\\r
+
 
 ![clip_image024]
 
-\\r
+
 
 ![clip_image028]![clip_image026]
 
-\\r
+
 
 ![clip_image036]![clip_image032]
 
-\\r
+
 
 ![clip_image030]
 
-\\r
 
- ![clip_image034]
 
-\\r
+![clip_image034]
+
+
 
 ![clip_image042]![clip_image044]
 
-\\r
 
- 
 
-\\r
 
- ![clip_image040]
+![clip_image040]
 
-\\r
+
 
 ![clip_image046]
 
-\\r
+
 
 ![clip_image050]![clip_image048]
 
-\\r
 
- 
 
-\\r
 
 ![clip_image058]
 
-\\r
 
- 
 
-\\r
 
 ![clip_image038]
 
-\\r
+
 
 ![clip_image056]
 
-\\r
 
- 
 
-\\r
-
- 
-
-\\r
 
 ![clip_image062]![clip_image060]
 
-\\r
+
 
 ![clip_image066]
 
-\\r
 
- 
 
-\\r
 
 ![clip_image052]![clip_image054]
 
-\\r
+
 
 ![clip_image068]
 
-\\r
+
 
 ![gare]![clip_image074]
 
-\\r
+
 
 ![clip_image082] ![clip_image084]
 
-\\r
+
 
 ![gare][1]
 
-\\r
+
 
 ![clip_image078]![clip_image080]
 
-\\r![clip_image070]
+![clip_image070]
 
   [clip_image002]: /images/2226fe00f7c0_FA33/clip_image002_thumb.jpg
     "clip_image002"
