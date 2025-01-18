@@ -1,5 +1,7 @@
 backend:
-  name: git-gateway
+  #name: git-gateway # netlify auth
+  name: github
+  repo: beguelins-net/beguelins.net
   branch: main
 
 media_folder: "static/img" # Folder where user uploaded files should go
