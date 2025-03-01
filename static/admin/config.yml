@@ -1,5 +1,4 @@
 backend:
-  #name: git-gateway # netlify auth
   name: github
   repo: beguelins-net/beguelins.net
   branch: main
