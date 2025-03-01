@@ -3,6 +3,7 @@ publishedAt: 2024-04-16T15:49:46.303Z
 coverImage: ""
 author: geneb
 slug: cartes-postales-et-vues-du-ciel
+category: exposition
 date: 2024-09-29T13:48:00.000Z
 status: published
 title: Cartes postales et vues du ciel

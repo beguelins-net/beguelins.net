@@ -2,7 +2,7 @@
 title: 'Église paroissiale Lantenay-Outriaz'
 status: 'published'
 author: 'geneb'
-
+category: eglise-et-vie-paroissiale
 slug: 'eglise-paroissiale-lantenay-outriaz'
 description: ''
 coverImage: ''

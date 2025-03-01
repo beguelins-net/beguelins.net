@@ -2,6 +2,7 @@
 publishedAt: 2011-11-09T13:06:56.000Z
 coverImage: ""
 author: geneb
+category: circuler-au-village
 slug: les-lieux-dits
 date: 2011-11-09T13:06:56.000Z
 status: published

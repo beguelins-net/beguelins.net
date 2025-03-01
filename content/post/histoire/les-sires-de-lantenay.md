@@ -2,7 +2,7 @@
 title: 'Les sires de Lantenay'
 status: 'published'
 author: 'geneb'
-
+category: histoire
 slug: 'les-sires-de-lantenay'
 description: ''
 coverImage: ''

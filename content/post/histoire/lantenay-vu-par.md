@@ -2,7 +2,7 @@
 title: 'Lantenay vu par…'
 status: 'published'
 author: 'geneb'
-
+category: histoire
 slug: 'lantenay-vu-par'
 description: ''
 coverImage: ''

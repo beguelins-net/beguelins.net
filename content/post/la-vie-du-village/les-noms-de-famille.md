@@ -2,7 +2,7 @@
 title: 'Les noms de famille'
 status: 'published'
 author: 'geneb'
-
+category: la-vie-du-village
 slug: 'les-noms-de-famille'
 description: ''
 coverImage: ''

@@ -2,7 +2,7 @@
 title: 'Histoire des Écoles'
 status: 'published'
 author: 'geneb'
-
+category: la-vie-du-village
 slug: 'histoire-des-ecoles'
 description: ''
 coverImage: ''

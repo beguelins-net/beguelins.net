@@ -2,7 +2,7 @@
 title: 'Le creusot - 11/09/2021'
 status: 'published'
 author: 'geneb'
-
+category: la-vie-de-l-association
 slug: 'le-creusot-11-09-2021'
 description: ''
 coverImage: ''

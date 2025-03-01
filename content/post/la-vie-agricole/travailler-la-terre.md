@@ -2,7 +2,7 @@
 title: 'Travailler la terre'
 status: 'published'
 author: 'geneb'
-
+category: la-vie-agricole
 slug: 'travailler-la-terre'
 description: ''
 coverImage: ''

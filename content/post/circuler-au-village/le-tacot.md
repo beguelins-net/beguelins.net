@@ -2,6 +2,7 @@
 publishedAt: 2011-11-15T13:04:22.000Z
 coverImage: ""
 author: geneb
+category: circuler-au-village
 slug: le-tacot
 date: 2011-11-15T06:33:00.000Z
 status: published

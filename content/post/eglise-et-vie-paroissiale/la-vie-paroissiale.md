@@ -2,7 +2,7 @@
 title: 'La vie paroissiale'
 status: 'published'
 author: 'geneb'
-
+category: eglise-et-vie-paroissiale
 slug: 'la-vie-paroissiale'
 description: ''
 coverImage: ''

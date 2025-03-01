@@ -2,7 +2,7 @@
 title: 'La Fruitière'
 status: 'published'
 author: 'geneb'
-
+category: la-vie-agricole
 slug: 'la-fruitiere'
 description: ''
 coverImage: ''

@@ -2,7 +2,7 @@
 title: 'Les groupements agricoles'
 status: 'published'
 author: 'geneb'
-
+category: la-vie-agricole
 slug: 'les-groupements-agricoles'
 description: ''
 coverImage: ''

@@ -2,7 +2,7 @@
 title: 'Courrier à Paul Béguèlin'
 status: 'published'
 author: 'geneb'
-
+category: la-vie-du-village
 slug: 'courrier-a-paul-beguelin'
 description: ''
 coverImage: ''

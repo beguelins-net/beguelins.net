@@ -2,7 +2,7 @@
 title: 'La fête du four'
 status: 'published'
 author: 'geneb'
-
+category: la-vie-de-l-association
 slug: 'la-fete-du-four'
 description: ''
 coverImage: ''

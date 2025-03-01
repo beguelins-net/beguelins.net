@@ -2,7 +2,7 @@
 title: 'La population'
 status: 'published'
 author: 'geneb'
-
+category: la-vie-du-village
 slug: 'la-population'
 description: ''
 coverImage: ''

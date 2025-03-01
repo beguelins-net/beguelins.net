@@ -1,6 +1,6 @@
 ---
 author: 'geneb'
-
+category: histoire
 coverImage: ''
 title: 'Il était une fois Lantenay et Outriaz'
 status: 'published'

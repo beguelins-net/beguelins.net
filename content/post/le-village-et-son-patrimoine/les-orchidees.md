@@ -2,7 +2,7 @@
 title: 'Les orchidées'
 status: 'published'
 author: 'geneb'
-
+category: le-village-et-son-patrimoine
 slug: 'les-orchidees'
 description: ''
 coverImage: ''

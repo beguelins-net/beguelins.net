@@ -2,7 +2,7 @@
 title: 'Les vide-greniers'
 status: 'published'
 author: 'geneb'
-
+category: la-vie-de-l-association
 slug: 'les-vide-greniers'
 description: ''
 coverImage: ''

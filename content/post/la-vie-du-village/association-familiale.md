@@ -2,7 +2,7 @@
 title: 'Association familiale'
 status: 'published'
 author: 'geneb'
-
+category: la-vie-du-village
 slug: 'association-familiale'
 description: ''
 coverImage: ''

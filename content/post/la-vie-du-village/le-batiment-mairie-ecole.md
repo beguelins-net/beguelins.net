@@ -2,7 +2,7 @@
 title: 'Le bâtiment Mairie - École'
 status: 'published'
 author: 'geneb'
-
+category: la-vie-du-village
 slug: 'le-batiment-mairie-ecole'
 description: ''
 coverImage: ''

@@ -2,7 +2,7 @@
 title: 'Recherches pétrolières'
 status: 'published'
 author: 'geneb'
-
+category: histoire-d-energie
 slug: 'recherches-petrolieres'
 description: ''
 coverImage: ''

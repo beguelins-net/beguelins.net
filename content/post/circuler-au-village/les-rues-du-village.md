@@ -2,7 +2,7 @@
 title: 'Les rues du village'
 status: 'published'
 author: 'geneb'
-
+category: circuler-au-village
 slug: 'les-rues-du-village'
 description: 'Les rues du village'
 coverImage: ''

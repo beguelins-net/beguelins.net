@@ -2,7 +2,7 @@
 title: 'Histoire sociale'
 status: 'published'
 author: 'geneb'
-
+category: la-vie-du-village
 slug: 'histoire-sociale'
 description: ''
 coverImage: ''

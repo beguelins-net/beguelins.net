@@ -2,7 +2,7 @@
 title: 'Évolution des métiers'
 status: 'published'
 author: 'geneb'
-
+category: la-vie-du-village
 slug: 'evolution-des-metiers'
 description: ''
 coverImage: ''

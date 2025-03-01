@@ -2,7 +2,7 @@
 title: 'Le remembrement intercommunal'
 status: 'published'
 author: 'geneb'
-
+category: la-vie-agricole
 slug: 'le-remembrement-intercommunal'
 description: ''
 coverImage: ''

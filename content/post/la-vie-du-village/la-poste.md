@@ -2,7 +2,7 @@
 title: 'La Poste'
 status: 'published'
 author: 'geneb'
-
+category: la-vie-du-village
 slug: 'la-poste'
 description: ''
 coverImage: ''
