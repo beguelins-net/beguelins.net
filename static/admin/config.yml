@@ -24,7 +24,7 @@ collections: # A list of collections the CMS should be able to edit
   - name: "pages"
     label: "Pages"
     files:
-      - file: "content/_index.md"
+      - file: "content/pages/home.md"
         label: "Home Page"
         name: "home"
         fields:
@@ -46,12 +46,6 @@ collections: # A list of collections the CMS should be able to edit
   - name: "site_settings"
     label: "Site Settings"
     files:
-      - file: "data/footer.json"
-        label: Footer
-        name: footer
-        fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Blurb, name: blurb, widget: text}
       - file: "hugo.toml"
         label: Hugo Config
         name: config
