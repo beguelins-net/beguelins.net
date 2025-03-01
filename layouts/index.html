@@ -1,0 +1,28 @@
+{{ define "main" }}
+  <section class="home-content">
+    {{/* Retrieve the page object from content/pages/mydoc.md */}}
+    {{ $page := .Site.GetPage "page" "post/pages/home" }}
+    {{ if $page }}
+      <article class="post">
+        <header class="post-header">
+          <h1>{{ $page.Title }}</h1>
+        </header>
+        <div class="post-content">
+          {{ $page.Content | safeHTML }}
+        </div>
+      </article>
+    {{ else }}
+      <p>Content not found. Please ensure <code>content/post/pages/home.md</code> exists.</p>
+    {{ end }}
+  </section>
+  <section class="other-posts">
+    <h2>Autres articles</h2>
+    <ul>
+      {{ range where .Site.RegularPages "Section" "post" }}
+        <li>
+          <a href="{{ .Permalink }}">{{ .Title }}</a>
+        </li>
+      {{ end }}
+    </ul>
+  </section>
+{{ end }}
