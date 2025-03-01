@@ -13,7 +13,7 @@ collections: # A list of collections the CMS should be able to edit
   - name: "post" # Used in routes, i.e.: /admin/collections/:slug/edit
     label: "Post" # Used in the UI, i.e.: "New Post"
     folder: "content/post" # The path to the folder where the documents are stored
-    path: "{{slug}}/index" # Each document is inside a folder with the slug name.
+    path: "{{slug}}" # Each document is inside a folder with the slug name.
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection has
       - {label: "Title", name: "title", widget: "string"}
