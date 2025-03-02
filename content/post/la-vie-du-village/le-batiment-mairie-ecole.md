@@ -10,7 +10,7 @@ publishedAt: '2011-11-17T13:24:35.000Z'
 date: 2011-11-17T13:24:35.000Z
 ---
 
-*17 novembre 2011, 09 h 37*
+*17 novembre 2011, 09 h 37*
 
 Le bâtiment mairie-école est situé en haut du village, il est en pierre de taille à un étage avec un balcon en fer forgé au centre. Sa construction remonte à 1902 (architecte Moinat et Guillot entrepreneur).
 

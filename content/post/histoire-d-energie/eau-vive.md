@@ -2,12 +2,12 @@
 title: 'Eau vive'
 status: 'published'
 author: 'geneb'
-category: histoire-d-energie
+category: 'histoire-d-energie'
 slug: 'eau-vive'
 description: ''
 coverImage: ''
 publishedAt: '2011-11-22T13:40:58.000Z'
-date: 2011-11-22T13:40:58.000Z
+date: '2011-11-22T13:40:58.000Z'
 ---
 
 Le 22 novembre, 2011, 04h56

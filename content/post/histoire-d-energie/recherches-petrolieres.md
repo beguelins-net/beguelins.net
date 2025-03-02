@@ -2,15 +2,15 @@
 title: 'Recherches pétrolières'
 status: 'published'
 author: 'geneb'
-category: histoire-d-energie
+category: 'histoire-d-energie'
 slug: 'recherches-petrolieres'
 description: ''
 coverImage: ''
 publishedAt: '2011-11-22T13:34:01.000Z'
-date: 2011-11-22T13:34:01.000Z
+date: '2011-11-22T13:34:01.000Z'
 ---
 
-Le 22 novembre, 2011, 05 h 43
+Le 22 novembre, 2011, 05 h 43
 
 **Départ de l’opération :**
 

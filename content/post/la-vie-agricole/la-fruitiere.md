@@ -2,15 +2,15 @@
 title: 'La Fruitière'
 status: 'published'
 author: 'geneb'
-category: la-vie-agricole
+category: 'la-vie-agricole'
 slug: 'la-fruitiere'
 description: ''
 coverImage: ''
 publishedAt: '2011-11-13T13:39:09.000Z'
-date: 2011-11-13T13:39:09.000Z
+date: '2011-11-13T13:39:09.000Z'
 ---
 
-Le 13 novembre 2011, 11 h 21
+Le 13 novembre 2011, 11 h 21
 
 L'origine du mot est sujet à controverse : pour les uns, fruitière vient de *fruit* : il est le lieu où les paysans mettent le ***fruit de leur travail*** en commun, ou alors font *fructifier* leur bien ; pour d'autres, il serait dérivé du médiaval ou du fribourgeois "**fretière", de la même famille que "fromage**".
 

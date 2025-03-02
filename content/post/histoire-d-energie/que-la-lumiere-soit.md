@@ -2,15 +2,15 @@
 title: 'Que la lumière soit'
 status: 'published'
 author: 'geneb'
-category: histoire-d-energie
+category: 'histoire-d-energie'
 slug: 'que-la-lumiere-soit'
 description: ''
 coverImage: ''
 publishedAt: '2011-11-22T13:42:25.000Z'
-date: 2011-11-22T13:42:25.000Z
+date: '2011-11-22T13:42:25.000Z'
 ---
 
-Le 22 novembre, 2011, 04 h 21 
+Le 22 novembre, 2011, 04 h 21
 
 
 ![](/img/beguelins/Windows-Live-Writer/41ebb8075d6e_E3AF/clip_image002_2.jpg)

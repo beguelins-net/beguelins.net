@@ -2,15 +2,15 @@
 title: 'Église paroissiale Lantenay-Outriaz'
 status: 'published'
 author: 'geneb'
-category: eglise-et-vie-paroissiale
+category: 'eglise-et-vie-paroissiale'
 slug: 'eglise-paroissiale-lantenay-outriaz'
 description: ''
 coverImage: ''
 publishedAt: '2011-11-17T13:44:04.000Z'
-date: 2011-11-17T13:44:04.000Z
+date: '2011-11-17T13:44:04.000Z'
 ---
 
-Le 17 novembre, 2011, 10 h 13
+Le 17 novembre, 2011, 10 h 13
 
 ![](/img/beguelins/Windows-Live-Writer/fcdfcc9c0cf3_131F9/clip_image002_2.jpg)
 
@@ -66,7 +66,7 @@ La nef et les transepts sont recouverts d’ardoises. Le clocher, couvert d’un
 
 Dans le clocher, deux cloches Jeanne Henriette (1 200 kg) et Marie Antoinette installées en 1851.
 
-Des travaux d’embellissement ont été réalisé en un siècle, depuis sa reconstruction en 1852, jusqu’à son centenaire en 1952 : Essentiellement l’autel majeur, les statuts de la Vierge et de St Joseph en 1854 puis les vitraux en 1869. Ont suivi,  les boiseries de sapins dans l’abside et les peintures du chœur et des chapelles en 1912.
+Des travaux d’embellissement ont été réalisé en un siècle, depuis sa reconstruction en 1852, jusqu’à son centenaire en 1952 : Essentiellement l’autel majeur, les statuts de la Vierge et de St Joseph en 1854 puis les vitraux en 1869. Ont suivi,  les boiseries de sapins dans l’abside et les peintures du chœur et des chapelles en 1912.
 
 ![](/img/beguelins/Windows-Live-Writer/fcdfcc9c0cf3_131F9/clip_image022_2.jpg)
 

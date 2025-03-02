@@ -10,7 +10,7 @@ publishedAt: '2014-03-21T12:52:56.000Z'
 date: 2014-03-21T12:52:56.000Z
 ---
 
-21 mars, 2014, 03 h 12
+21 mars, 2014, 03 h 12
 
 **LES ORCHIDÉES DE LANTENAY**
 
@@ -23,22 +23,22 @@ date: 2014-03-21T12:52:56.000Z
            (plus de 20 000 espèces dans le monde)
 ```
 
-La plupart :
+La plupart :
 
 - vivent en zone tropicale
 - sont grimpantes ou épiphytes
 - ont une floraison spectaculaire
 
-Les orchidées ont :
+Les orchidées ont :
 
 - 3 pétales
 
-Le pétale inférieur est plus grand et plus coloré : c'est le labelle.
+Le pétale inférieur est plus grand et plus coloré : c'est le labelle.
 
 - 3 sépales qui ressemblent un peu aux deux pétales latéraux (sépales pétaloïdes)
-- Les parties mâle et femelle sont regroupées : c'est le gynostème
+- Les parties mâle et femelle sont regroupées : c'est le gynostème
 - L'ovaire est torsadé et rattache la fleur à la tige (la fleur n'a pas de pétiole)
-- Les grains de pollen sont réunis en 2 boules : les pollinies
+- Les grains de pollen sont réunis en 2 boules : les pollinies
 - Une masse gluante, le viscidium, empêche le contact entre le pollen et le stigmate.
 
 C'est lui qui fixera les pollinies sur l'insecte pollinisateur.
@@ -51,7 +51,7 @@ C'est lui qui fixera les pollinies sur l'insecte pollinisateur.
 
 Bien que beaucoup moins spectaculaires, elles ont la même structure que leurs cousines exotiques.
 
-Une reproduction aléatoire :
+Une reproduction aléatoire :
 
 - Les graines minuscules ne possèdent pas de réserves et sont recouvertes d'une
 
@@ -60,7 +60,7 @@ enveloppe très dure. Pour germer, il faut qu'une graine soit en contact avec un
 - Le mycélium dissout l'enveloppe et nourrit la plantule.
 - Lorsque la plante est grande, l'association avec le champignon (mycorhize) reste indispensable. Les orchidées n'ont pas ou très peu de radicelles et c'est le mycélium qui puise les sels minéraux dans le sol.
 
-Les principaux facteurs de raréfaction des orchidées sont :
+Les principaux facteurs de raréfaction des orchidées sont :
 
 - La cueillette qui empêche les plantes de finir leur cycle de vie (graine et tubercule)
 - Les désherbants et les engrais qui brûlent le mycélium dans le sol.
@@ -73,8 +73,8 @@ NE PAS CUEILLIR, NE PAS ARRACHER, FAUCHER ou TONDRE EN AUTOMNE pour éviter l'en
     CEPHALANTHERE PALE (Cephalanthera damasonium)
 ```
 
-- Floraison : fin mai
-- Localisation : on peut la trouver en nombre assez important dans quelques bois de résineux.
+- Floraison : fin mai
+- Localisation : on peut la trouver en nombre assez important dans quelques bois de résineux.
 - Les fleurs sont d'un blanc jaunâtre et les feuilles sont larges.
 
 ![2935.03.JPG](/img/beguelins/images/ORCHIDEES/.2935.03_m.jpg)
@@ -85,8 +85,8 @@ NE PAS CUEILLIR, NE PAS ARRACHER, FAUCHER ou TONDRE EN AUTOMNE pour éviter l'en
     CEPHALANTHERE A FEUILLES ÉTROITES (Cephalanthera longifolia)
 ```
 
-- Floraison : fin mai
-- Localisation : quelques pieds ici et là dans des endroits ombragés
+- Floraison : fin mai
+- Localisation : quelques pieds ici et là dans des endroits ombragés
 - Contrairement à la précédente, ses fleurs sont d'un blanc pur et ses feuilles longues et étroites.
 
 ![numerisation0004.jpg](/img/beguelins/images/ORCHIDEES/.numerisation0004_m.jpg)
@@ -97,8 +97,8 @@ NE PAS CUEILLIR, NE PAS ARRACHER, FAUCHER ou TONDRE EN AUTOMNE pour éviter l'en
       CEPHALANTHERE ROSE (Cephalanthera rubra)
 ```
 
-- Floraison : fin juin
-- Localisation : plante très rare sur la commune (2 à 5 pieds suivant les années), on la trouve sur les talus ensoleillés.
+- Floraison : fin juin
+- Localisation : plante très rare sur la commune (2 à 5 pieds suivant les années), on la trouve sur les talus ensoleillés.
 
 ![numerisation0003.jpg](/img/beguelins/images/ORCHIDEES/.numerisation0003_m.jpg)
 
@@ -108,8 +108,8 @@ NE PAS CUEILLIR, NE PAS ARRACHER, FAUCHER ou TONDRE EN AUTOMNE pour éviter l'en
        EPIPACTIS POURPRE NOIRÂTRE (Epipactis atrorubens)
 ```
 
-- Floraison : mi-juillet
-- Localisation : plante relativement courante en milieu ombragé
+- Floraison : mi-juillet
+- Localisation : plante relativement courante en milieu ombragé
 - Les feuilles sont étroites et opposées.
 
 ![2937.02.JPG](/img/beguelins/images/ORCHIDEES/.2937.02_m.jpg)
@@ -120,8 +120,8 @@ NE PAS CUEILLIR, NE PAS ARRACHER, FAUCHER ou TONDRE EN AUTOMNE pour éviter l'en
         EPIPACTIS DE MÜLLER (Epipactis muelleri)
 ```
 
-- Floraison : mi-juillet
-- Localisation : plante très rare sur la commune (une seule station d'une dizaine de pieds) ; on la trouve dans les endroits très sombres.
+- Floraison : mi-juillet
+- Localisation : plante très rare sur la commune (une seule station d'une dizaine de pieds) ; on la trouve dans les endroits très sombres.
 
 ![2942.04.JPG](/img/beguelins/images/ORCHIDEES/.2942.04_m.jpg)
 
@@ -131,8 +131,8 @@ NE PAS CUEILLIR, NE PAS ARRACHER, FAUCHER ou TONDRE EN AUTOMNE pour éviter l'en
      EPIPACTIS A FEUILLES LARGES (Epipactis helleborine)
 ```
 
-- Floraison : début août
-- Localisation : Plante relativement courante
+- Floraison : début août
+- Localisation : Plante relativement courante
 - Contrairement à la précédente, ses feuilles sont larges et en spirales.
 
 ![2941.04.JPG](/img/beguelins/images/ORCHIDEES/.2941.04_m.jpg)
@@ -143,8 +143,8 @@ NE PAS CUEILLIR, NE PAS ARRACHER, FAUCHER ou TONDRE EN AUTOMNE pour éviter l'en
      NEOTTIE NID D'OISEAU (Neottia nidus-avis)
 ```
 
-- Floraison : mi-mai
-- Localisation : plante sans chlorophylle, elle vit en symbiose avec le hêtre.
+- Floraison : mi-mai
+- Localisation : plante sans chlorophylle, elle vit en symbiose avec le hêtre.
 
 ![2946.03.JPG](/img/beguelins/images/ORCHIDEES/.2946.03_m.jpg)
 
@@ -154,8 +154,8 @@ NE PAS CUEILLIR, NE PAS ARRACHER, FAUCHER ou TONDRE EN AUTOMNE pour éviter l'en
        GOODYERE RAMPANTE (Goodyera repens)
 ```
 
-- Floraison : début août
-- Localisation : rare et minuscule, on la trouve sous les pins.
+- Floraison : début août
+- Localisation : rare et minuscule, on la trouve sous les pins.
 
 ![2953.02.JPG](/img/beguelins/images/ORCHIDEES/.2953.02_m.jpg)
 
@@ -165,8 +165,8 @@ NE PAS CUEILLIR, NE PAS ARRACHER, FAUCHER ou TONDRE EN AUTOMNE pour éviter l'en
       LISTERE A DEUX FEUILLES ( Neottia ovata)
 ```
 
-- Floraison : mi-mai
-- Localisation : plante assez courante, c'est la seule orchidée qui puisse vivre sans symbiose avec un champignon, une fois adulte.
+- Floraison : mi-mai
+- Localisation : plante assez courante, c'est la seule orchidée qui puisse vivre sans symbiose avec un champignon, une fois adulte.
 
 ![2949.04.jpg](/img/beguelins/images/ORCHIDEES/.2949.04_m.jpg)
 
@@ -176,18 +176,18 @@ NE PAS CUEILLIR, NE PAS ARRACHER, FAUCHER ou TONDRE EN AUTOMNE pour éviter l'en
      Les orchidées à éperon long et fin
 ```
 
-La pollinisation :
+La pollinisation :
 
 - Seuls les papillons, munis d'une trompe, ont accès au nectar et pollinisent les fleurs.
 - Les orchis moucheron et pyramidal, de couleur rouge, attirent les papillons de jour ; les papillons de nuit sont guidés vers les orchis à deux feuilles par leur odeur vanillée. Ces trois espèces poussent sur les talus secs, mais ailleurs l'orchis moucheron se trouve aussi en milieu humide (marais de Corlier).
 
-Localisation sur la commune :
+Localisation sur la commune :
 
 ```
          Orchis à deux feuilles (platanthera bifolia)
 ```
 
-Floraison : mi-mai
+Floraison : mi-mai
 
 ![2955.01.JPG](/img/beguelins/images/ORCHIDEES/.2955.01_m.jpg)
 
@@ -197,7 +197,7 @@ Floraison : mi-mai
          Orchis moucheron (Gymnadenia conopsea)
 ```
 
-Floraison : début juin
+Floraison : début juin
 
 ![2957.03.JPG](/img/beguelins/images/ORCHIDEES/.2957.03_m.jpg)
 
@@ -207,7 +207,7 @@ Floraison : début juin
           Orchis pyramidal (Anacamptis pyramidalis)
 ```
 
-Floraison : mi-juin
+Floraison : mi-juin
 
 ![2960.02.JPG](/img/beguelins/images/ORCHIDEES/.2960.02_m.jpg)
 
@@ -217,19 +217,19 @@ Floraison : mi-juin
       Les ophrys
 ```
 
-La pollinisation :
+La pollinisation :
 
 - Les ophrys sont des fleurs sans nectar ; elles attirent les mâles de certaines espèces d'hyménoptères – insectes proches des guêpes et des abeilles – en imitant l'aspect des femelles et l'odeur de leurs phéromones
 - L'envol des mâles coïncide avec la floraison des orchidées.
 - L'arrivée des femelles est généralement plus tardive, les mâles délaissent alors leurs pseudo-copulations pour se consacrer aux femelles.
 
-Localisation sur la commune :
+Localisation sur la commune :
 
 ```
          Ophrys abeille (Ophrys apifera)
 ```
 
-Floraison : mi-juin Plante très rare sur la commune, 2 à 5 pieds suivant les années
+Floraison : mi-juin Plante très rare sur la commune, 2 à 5 pieds suivant les années
 
 ![2965.02.JPG](/img/beguelins/images/ORCHIDEES/.2965.02_m.jpg)
 
@@ -239,7 +239,7 @@ Floraison : mi-juin Plante très rare sur la commune, 2 à 5 pieds suivant les 
         Ophrys petite araignée (Ophrys araneola)
 ```
 
-Floraison : début avril Plante très localisée.
+Floraison : début avril Plante très localisée.
 
 ![2968.02.JPG](/img/beguelins/images/ORCHIDEES/.2968.02_m.jpg)
 
@@ -249,7 +249,7 @@ Floraison : début avril Plante très localisée.
         Ophrys mouche (Ophrys insectifera)
 ```
 
-Floraison : fin avril Plante disséminée sur les talus.
+Floraison : fin avril Plante disséminée sur les talus.
 
 ![2971.02.JPG](/img/beguelins/images/ORCHIDEES/.2971.02_m.jpg)
 
@@ -259,8 +259,8 @@ Floraison : fin avril Plante disséminée sur les talus.
             ORCHIS BRÛLÉ (Neotinea ustulata)
 ```
 
-- Floraison : début mai
-- Localisation : dans quelques prairies sèches
+- Floraison : début mai
+- Localisation : dans quelques prairies sèches
 - C'est l'une des plus petites orchidées
 
 ![2984.02.JPG](/img/beguelins/images/ORCHIDEES/.2984.02_m.jpg)
@@ -271,8 +271,8 @@ Floraison : fin avril Plante disséminée sur les talus.
              ORCHIS BOUC (Himantglossum hircinum)
 ```
 
-- Floraison : mi-juin
-- Localisation : quelques pieds par-ci par-là
+- Floraison : mi-juin
+- Localisation : quelques pieds par-ci par-là
 - Orchidée à odeur très forte. Elle peut atteindre 80 cm de haut.
 
 ![2997.02.JPG](/img/beguelins/images/ORCHIDEES/.2997.02_m.jpg)
@@ -283,8 +283,8 @@ Floraison : fin avril Plante disséminée sur les talus.
            HOMME PENDU (Orchis anthropophorum)
 ```
 
-- Floraison : mi-mai
-- Localisation : plante assez localisée
+- Floraison : mi-mai
+- Localisation : plante assez localisée
 - La forme de ses fleurs rappelle la silhouette d'un homme pendu.
 
 ![2964.02.jpg](/img/beguelins/images/ORCHIDEES/.2964.02_m.jpg)
@@ -295,8 +295,8 @@ Floraison : fin avril Plante disséminée sur les talus.
            ORCHIS MÂLE (Orchis mascula)
 ```
 
-- Floraison : mi-avril
-- Localisation : plante localisée dans quelques endroits ombragés
+- Floraison : mi-avril
+- Localisation : plante localisée dans quelques endroits ombragés
 - Cette orchidée possède un éperon en forme de phallus.
 
 ![2991.03.JPG](/img/beguelins/images/ORCHIDEES/.2991.03_m.jpg)
@@ -307,8 +307,8 @@ Floraison : fin avril Plante disséminée sur les talus.
         ORCHIS TACHETE (Dactylorhiza maculata)
 ```
 
-- Floraison : début juin
-- Localisation : seule orchidée de la commune à pousser en milieu humide.
+- Floraison : début juin
+- Localisation : seule orchidée de la commune à pousser en milieu humide.
 
 ![2973.03.JPG](/img/beguelins/images/ORCHIDEES/.2973.03_m.jpg)
 
@@ -318,8 +318,8 @@ Floraison : fin avril Plante disséminée sur les talus.
        ORCHIS BOUFFON (Anacamptis morio)
 ```
 
-- Floraison : mi-avril
-- Localisation : deux stations en prairie sèche
+- Floraison : mi-avril
+- Localisation : deux stations en prairie sèche
 - Elle est très semblable à la précédente, mais elle se reconnait facilement par la présence de nervures vertes sur les sépales.
 
 ![2982.02.jpg](/img/beguelins/images/ORCHIDEES/.2982.02_m.jpg)
@@ -330,8 +330,8 @@ Floraison : fin avril Plante disséminée sur les talus.
       ORCHIS MILITAIRE (Orchis militaris)
 ```
 
-- Floraison : mi-mai
-- Localisation : plante relativement courante sur les talus.
+- Floraison : mi-mai
+- Localisation : plante relativement courante sur les talus.
 - La silhouette de la fleur fait penser à un homme au garde à vous.
 
 ![2987.04.JPG](/img/beguelins/images/ORCHIDEES/.2987.04_m.jpg)
@@ -342,7 +342,7 @@ Floraison : fin avril Plante disséminée sur les talus.
 ```
 
 - Floraison mi-mai
-- Localisation : plante rare sur la commune, une dizaine de pieds répartis sur deux stations.
+- Localisation : plante rare sur la commune, une dizaine de pieds répartis sur deux stations.
 
 ![2986.03.JPG](/img/beguelins/images/ORCHIDEES/.2986.03_m.jpg)
 
@@ -352,19 +352,19 @@ Floraison : fin avril Plante disséminée sur les talus.
       ORCHIS SINGE (Orchis simia)
 ```
 
-- Floraison : début mai
-- Localisation : plante très rare sur la commune. C'est la seule orchidée française dont la floraison commence par le haut de l'épi
+- Floraison : début mai
+- Localisation : plante très rare sur la commune. C'est la seule orchidée française dont la floraison commence par le haut de l'épi
 - Contrairement à la précédente, le bas du labelle et les sépales sont longs, fins et entortillés.
 
 ![2988.04.JPG](/img/beguelins/images/ORCHIDEES/.2988.04_m.jpg)
 
 ![2988.01.jpg](/img/beguelins/images/ORCHIDEES/.2988.01_m.jpg)
 
-Bien que les orchidées sélectionnent leurs pollinisateurs, il peut arriver qu'une plante naisse des amours improbables entre les fleurs de deux espèces différentes :
+Bien que les orchidées sélectionnent leurs pollinisateurs, il peut arriver qu'une plante naisse des amours improbables entre les fleurs de deux espèces différentes :
 
 ![Ophrys_hybride.jpg](/img/beguelins/images/ORCHIDEES/.Ophrys_hybride_m.jpg)
 
-Les parents de cette fleur sont : un ophrys mouche et un ophrys araignée
+Les parents de cette fleur sont : un ophrys mouche et un ophrys araignée
 
 ![2973.04.JPG](/img/beguelins/images/ORCHIDEES/.2973.04_m.jpg)
 

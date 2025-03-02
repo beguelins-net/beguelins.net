@@ -66,7 +66,7 @@ Elles récapitulent depuis 1793, pour une période de dix ans et par commune, to
 
 **Recensement et état civil**
 
--  De **1810 à 1840** (et de **1860 et 1870)**: baisse importante de la natalité et hausse des décès entrainant une **diminution de la population.**
+-  De **1810 à 1840** (et de **1860 et 1870)**: baisse importante de la natalité et hausse des décès entrainant une **diminution de la population.**
 
 Recensement 1836 : - 19 % en 10 ans .
 
@@ -75,11 +75,11 @@ Recensement 1836 : - 19 % en 10 ans .
 
 L’espérance de vie moyenne en France en 1830 est de 39 ans pour les femmes. On trouve malgré tout à Lantenay, **le décès en 1833 d’une femme de 99 ans !**
 
--  À partir de 1850 (2ème partie du 19ème siècle) : Baisse conjointe de la natalité et de la mortalité c’est le passage au régime dit « moderne ».
+-  À partir de 1850 (2ème partie du 19ème siècle) : Baisse conjointe de la natalité et de la mortalité c’est le passage au régime dit « moderne ».
 
 Le nombre de mariages reste à peu près stable à partir de la fin du 19° siècle.
 
--  De 1910 à 1919 : 1ère guerre mondiale, hausse des décès, moins de naissances.
+-  De 1910 à 1919 : 1ère guerre mondiale, hausse des décès, moins de naissances.
 
 Début de l’exode rural à partir de 1930 (baisse des naissances) surtout marqué après 1962 (recensement 1968/1962 : -17%). Cette tendance baissière de la natalité durera jusqu’au **baby boom des années 1960** date à laquelle, la courbe de natalité dépasse celle de la mortalité et perdure jusqu’à aujourd’hui.
 

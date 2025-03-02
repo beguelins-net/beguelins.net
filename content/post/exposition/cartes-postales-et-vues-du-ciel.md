@@ -1,16 +1,16 @@
 ---
-publishedAt: 2024-04-16T15:49:46.303Z
-coverImage: ""
-author: geneb
-slug: cartes-postales-et-vues-du-ciel
-category: exposition
-date: 2024-09-29T13:48:00.000Z
-status: published
-title: Cartes postales et vues du ciel
-description: Cartes postales et vues du ciel
+publishedAt: '2024-04-16T15:49:46.303Z'
+coverImage: ''
+author: 'geneb'
+slug: 'cartes-postales-et-vues-du-ciel'
+category: 'exposition'
+date: '2024-09-29T13:48:00.000Z'
+status: 'published'
+title: 'Cartes postales et vues du ciel'
+description: 'Cartes postales et vues du ciel'
 ---
 
-*le 22 novembre 2011, 06 h 29*
+*le 22 novembre 2011, 06 h 29*
 
 ![](/img/beguelins/Windows-Live-Writer/2226fe00f7c0_FA33/clip_image002_2.jpg)
 

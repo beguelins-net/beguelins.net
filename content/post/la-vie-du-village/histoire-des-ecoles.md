@@ -10,7 +10,7 @@ publishedAt: '2011-11-17T13:26:07.000Z'
 date: 2011-11-17T13:26:07.000Z
 ---
 
-*Le 17 novembre 2011, 07 h 03*
+*Le 17 novembre 2011, 07 h 03*
 
 
 ![](/img/beguelins/Windows-Live-Writer/888fca015dd0_F7ED/clip_image002_2.jpg)
@@ -22,7 +22,7 @@ date: 2011-11-17T13:26:07.000Z
 
 Suite à la loi Guizot de 1833 (*chaque commune a l’obligation d’entretenir une maison d’école*). Acquisition en **1841** de la maison bourgeoise Revoux, par Jean Alexis Goyet pour être rétrocédée à la commune pour l’établissement de l’enseignement public.
 
-Ladite maison est « **assez spacieuse, bien éclairée et à la portée de toute la commune ».** En **1847** : 2 classes – 55 garçons et 60 filles.
+Ladite maison est « **assez spacieuse, bien éclairée et à la portée de toute la commune ».** En **1847** : 2 classes – 55 garçons et 60 filles.
 
 En **1836**, don par l’abbé Joseph Mermod, d’un bâtiment de 6 mètres par 4 et de 6 mètres de haut, pour l’ouverture d’une école de filles
 
@@ -59,10 +59,10 @@ C'est ainsi que pendant longtemps, pour la majorité des lauréats, il marque la
 Nous sommes donc dans une salle de classe, quelque part dans la France rurale, les encriers sont pleins, les plumes sont prêtes. Le silence règne et le Maitre prend la parole:
 
 - **Problème** : Une école se compose de 4 classes. La première a 9 élèves de moins que la deuxième. La deuxième, 7 de moins que la troisième. La troisième, 17 de moins que la quatrième. Sachant que la première classe contient 38 élèves, combien y en-a-t-il dans toute l’école ?
-- **Rédaction** : Un de vos camarades vous a raconté qu’à la suite d’une discussion survenue entre deux de ses parents, son père avait conclu en disant: “Vous n’avez pas l’esprit de famille.” Il vous a demandé ce que cela veut dire. Vous lui répondez et vous lui expliquez le sens de cette expression
+- **Rédaction** : Un de vos camarades vous a raconté qu’à la suite d’une discussion survenue entre deux de ses parents, son père avait conclu en disant: “Vous n’avez pas l’esprit de famille.” Il vous a demandé ce que cela veut dire. Vous lui répondez et vous lui expliquez le sens de cette expression
 - **Morale** : Qu'est-ce qu'un faux en écriture ? Comment nomme-t-on celui qui se rend coupable de ce crime ?
 
-**Emploi du temps dans les années 1940** :
+**Emploi du temps dans les années 1940** :
 
 
 ![](/img/beguelins/Windows-Live-Writer/888fca015dd0_F7ED/clip_image016_2.jpg)
@@ -97,7 +97,7 @@ Nous sommes donc dans une salle de classe, quelque part dans la France rurale, l
 
 ![](/img/beguelins/Windows-Live-Writer/888fca015dd0_F7ED/clip_image032_2.jpg)
 
-***Sciences physiques et* *naturelles – 1921***
+***Sciences physiques et* *naturelles – 1921***
 
 
 ![](/img/beguelins/Windows-Live-Writer/888fca015dd0_F7ED/clip_image040_2.jpg)
@@ -113,7 +113,7 @@ Nous sommes donc dans une salle de classe, quelque part dans la France rurale, l
 
 ![Classe en 1958](/img/beguelins/Windows-Live-Writer/888fca015dd0_F7ED/Classe_en_1958_2.jpg "Classe en 1958")
 
-**Classe début années 1950    Classe de Mr Allombert**
+**Classe début années 1950    Classe de Mr Allombert**
 
 **(1958)**
 

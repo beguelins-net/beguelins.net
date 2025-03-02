@@ -2,15 +2,15 @@
 title: 'Le remembrement intercommunal'
 status: 'published'
 author: 'geneb'
-category: la-vie-agricole
+category: 'la-vie-agricole'
 slug: 'le-remembrement-intercommunal'
 description: ''
 coverImage: ''
 publishedAt: '2011-11-13T16:59:36.000Z'
-date: 2011-11-13T16:59:36.000Z
+date: '2011-11-13T16:59:36.000Z'
 ---
 
-Le 13 novembre 2011, 10 h 45
+Le 13 novembre 2011, 10 h 45
 
 **En 1946**, sur l’initiative de quelques agriculteurs, les exploitants se réunissent, pour voir, discuter, envisager la solution de remembrement si elle se présentait comme possible. Un vote à bulletin secret qui a donné 1 voix de majorité en faveur du remembrement.
 

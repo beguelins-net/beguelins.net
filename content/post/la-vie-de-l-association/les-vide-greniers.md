@@ -10,11 +10,11 @@ publishedAt: '2015-06-11T12:52:52.000Z'
 date: 2015-06-11T12:52:52.000Z
 ---
 
-Le 11 juin, 2015, 04 h 21
+Le 11 juin, 2015, 04 h 21
 
 ![DSCN0275.JPG](/img/beguelins/SITE_VIDE_GRENIERS/.DSCN0275_m.jpg "DSCN0275.JPG, juin 2023")
 
-Depuis plusieurs années, les Béguelins organisent un vide-grenier tous les premiers dimanches de juin. Plus qu’un simple vide grenier il s’agit d’une manifestation « LANT’ARTS FOUILLES » qui regroupe sur la journée: un marché gourmand, une exposition artisanale, l’exposition de voitures anciennes, de matériel agricole d’autrefois et propose une restauration variée : côtelettes sur le gril, hot-dog, saucisses, gaufres à l’ancienne…
+Depuis plusieurs années, les Béguelins organisent un vide-grenier tous les premiers dimanches de juin. Plus qu’un simple vide grenier il s’agit d’une manifestation « LANT’ARTS FOUILLES » qui regroupe sur la journée: un marché gourmand, une exposition artisanale, l’exposition de voitures anciennes, de matériel agricole d’autrefois et propose une restauration variée : côtelettes sur le gril, hot-dog, saucisses, gaufres à l’ancienne…
 
 ![R10_2.jpg](/img/beguelins/SITE_VIDE_GRENIERS/.R10_2_s.jpg "R10_2.jpg, mar. 2014") ![R_10.jpg](/img/beguelins/SITE_VIDE_GRENIERS/.R_10_s.jpg "R_10.jpg, mar. 2014")
 

@@ -2,15 +2,15 @@
 title: 'Les sires de Lantenay'
 status: 'published'
 author: 'geneb'
-category: histoire
+category: 'histoire'
 slug: 'les-sires-de-lantenay'
 description: ''
 coverImage: ''
 publishedAt: '2011-11-08T16:51:53.000Z'
-date: 2011-11-08T16:51:53.000Z
+date: '2011-11-08T16:51:53.000Z'
 ---
 
-*Le 8 novembre 2011, 12 h 31*
+*Le 8 novembre 2011, 12 h 31*
 
 *(Extraits de la bibliothèque d’Eugène DUBOIS et Travaux de Guichenon : généalogie des Rougemont)*
 

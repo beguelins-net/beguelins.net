@@ -1,16 +1,16 @@
 ---
 author: 'geneb'
-category: histoire
+category: 'histoire'
 coverImage: ''
 title: 'Il était une fois Lantenay et Outriaz'
 status: 'published'
 slug: 'il-etait-une-fois-lantenay-et-outriaz'
 description: ''
 publishedAt: '2011-11-08T16:55:24.000Z'
-date: 2011-11-08T16:55:24.000Z
+date: '2011-11-08T16:55:24.000Z'
 ---
 
-Le 8 novembre 2011, 10 h 40
+Le 8 novembre 2011, 10 h 40
 
 … Que pour terminer leur procès, ils firent un acte de transaction qui indiquait une ligne de démarcation entre Outriaz et Lantenay ;
 

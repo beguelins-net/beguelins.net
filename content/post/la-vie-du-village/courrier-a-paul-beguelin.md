@@ -42,15 +42,15 @@ Le 10 novembre 2011, 03 h 33
 
 **A bouchon :** A *l’envers, en parlant d’un récipient, ou sur le ventre en parlant d’une personne allongée.*
 
-**A plat** : (prendre un) :  *Faire une chute*
+**A plat** : (prendre un) :  *Faire une chute*
 
-**Abade :** (à l’) : *En liberté (mes vaches sont à l’abade) ; En désordre (tes affaires sont à l’abade) ; Absent de chez soi (elle est toujours à l’abade).*
+**Abade :** (à l’) : *En liberté (mes vaches sont à l’abade) ; En désordre (tes affaires sont à l’abade) ; Absent de chez soi (elle est toujours à l’abade).*
 
 **Abadée :** n.f : *Réprimande.*
 
 **Abader** : *Lâcher le troupeau (c’est le printemps, on abade*).
 
-**Abonde :** (faire de l’) : *Faire du profit, du rendement (le blé a fait de l’abonde).*
+**Abonde :** (faire de l’) : *Faire du profit, du rendement (le blé a fait de l’abonde).*
 
 **Abonder** : *Avancer au travail (elle abonde à éplucher les pommes de terre).*
 
@@ -86,9 +86,9 @@ Le 10 novembre 2011, 03 h 33
 
 **Apponse :** n.f : *Pièce ajoutée ; jointure (ajout de 2 bout). Faire une apponse à une corde.*
 
-**Après** :(être) : *Etre en train* *(on était après parler de toi).*
+**Après** :(être) : *Etre en train* *(on était après parler de toi).*
 
-**Après** :(se mettre) (1) : *Effectuer un travail (la vaisselle n’est pas faite, je vais me mettre après).*
+**Après** :(se mettre) (1) : *Effectuer un travail (la vaisselle n’est pas faite, je vais me mettre après).*
 
 **Après :** (se mettre) (2) : *Poursuivre, harceler* *(la buse s’est mise après mes poussins) .*
 
@@ -110,9 +110,9 @@ Le 10 novembre 2011, 03 h 33
 
 **Balou :** n.m : *Balle du blé.*
 
-**Bardelle** : *Vache de couleur marron roux ; (par extension, toutes les vaches)* *(Il faut rentrer les bardelles pour les traire).*
+**Bardelle** : *Vache de couleur marron roux ; (par extension, toutes les vaches)* *(Il faut rentrer les bardelles pour les traire).*
 
-**Barjaque :** n.f  : Personne très ne *bavarde.*
+**Barjaque :** n.f  : Personne très ne *bavarde.*
 
 **Barjaquer** : *Parler à tort et à travers.*
 
@@ -146,7 +146,7 @@ Le 10 novembre 2011, 03 h 33
 
 **Bouille** :(1) n.f : *Récipient pour le transport du lait ; Sulfateuse à dos.*
 
-**Bouille** :(avoir une bonne) :  *Avoir un visage sympathique, avenant.*
+**Bouille** :(avoir une bonne) :  *Avoir un visage sympathique, avenant.*
 
 **Bouillon branlant :** n.m *: Potage très clair.*
 
@@ -156,9 +156,9 @@ Le 10 novembre 2011, 03 h 33
 
 **Branlicoter** : *Branler ; marcher d’un pas hésitant.*
 
-**Bréter** : *Tourner.*
+**Bréter** : *Tourner.*
 
-**Bugner** : *Heurter ; butter.*
+**Bugner** : *Heurter ; butter.*
 
 **C**
 
@@ -172,7 +172,7 @@ Le 10 novembre 2011, 03 h 33
 
 **Carquelins :** (faire des) : *Godiller, faire des plis* *(Ses bas font des carquelins).*
 
-**Casse** : n.f : *Poêle à frire.*
+**Casse** : n.f : *Poêle à frire.*
 
 **Catiballe :** (à) : *A califourchon, sur les épaules, le dos.*
 
@@ -184,7 +184,7 @@ Le 10 novembre 2011, 03 h 33
 
 **Chaucher :** *Tasser le foin avec les pieds sur le char.*
 
-**Chapoter** : *Débiter en petits morceaux. Hacher.*
+**Chapoter** : *Débiter en petits morceaux. Hacher.*
 
 **Charipe :** n.f : *Mauvaise bête ; personne méchante ou espiègle.*
 
@@ -210,17 +210,17 @@ Le 10 novembre 2011, 03 h 33
 
 **Couratier :** (n.m.) : *Personne peu sérieuse.*
 
-**Covet** : adj. : *Animal à la queue coupée* *(un chien, un chat covet).*
+**Covet** : adj. : *Animal à la queue coupée* *(un chien, un chat covet).*
 
-**Cuchon** : n.m : *Tas, amoncellement* *(des cuchons de foin ; des affaires en cuchons).*
+**Cuchon** : n.m : *Tas, amoncellement* *(des cuchons de foin ; des affaires en cuchons).*
 
 **D**
 
-**Daille** : n.f : *Faux.*
+**Daille** : n.f : *Faux.*
 
 **Débarouler** : *Tomber en roulant.*
 
-**Débronder** : *Emonder.*
+**Débronder** : *Emonder.*
 
 **Déhors** : *Dehors, à l’extérieur ; hormis* *(en déhors de ça).*
 
@@ -228,9 +228,9 @@ Le 10 novembre 2011, 03 h 33
 
 **Détra :** n.f : *Grosse hache de bûcheron.*
 
-**Devantie**r **:** n.m : *Tablier de grand’mère enveloppant.*
+**Devantie**r **:** n.m : *Tablier de grand’mère enveloppant.*
 
-**Dure** :(avoir la) : *Etre nostalgique.*
+**Dure** :(avoir la) : *Etre nostalgique.*
 
 **E**
 
@@ -248,7 +248,7 @@ Le 10 novembre 2011, 03 h 33
 
 **Equevilles :** inv. : *Ordures, déchets.*
 
-**Erbépin** : n.m : *Aubépine.*
+**Erbépin** : n.m : *Aubépine.*
 
 **Essauvager** : *Effrayer, effaroucher.*
 
@@ -258,7 +258,7 @@ Le 10 novembre 2011, 03 h 33
 
 **Faraud :** adj. : *En bonne forme physique* *(Je le trouve bien faraud ce matin).*
 
-**Faute** :(avoir) *: Avoir besoin de* *(Je n’ai pas eu faute d’acheter du blé).*
+**Faute** :(avoir) *: Avoir besoin de* *(Je n’ai pas eu faute d’acheter du blé).*
 
 **Faute** :(faire) : *Manquer* *(Il pleuvait, mon parapluie m’a fait faute).*
 
@@ -266,7 +266,7 @@ Le 10 novembre 2011, 03 h 33
 
 **Fiarder** : *Aller vite.*
 
-**Flique** : (faire) *: Agacer, importuner, ennuyer.*
+**Flique** : (faire) *: Agacer, importuner, ennuyer.*
 
 **Fournache :** n.m : *Feu d’écobuage.*
 
@@ -276,7 +276,7 @@ Le 10 novembre 2011, 03 h 33
 
 **Ganachon** : n.m : *Mâchoire inférieure du porc ; par extension : dentier.*
 
-**Gasser** : *Patauger dans l’eau.*
+**Gasser** : *Patauger dans l’eau.*
 
 **Gauner** : *Habiller* *(Gaunes toi donc correctement !).*
 
@@ -290,15 +290,15 @@ Le 10 novembre 2011, 03 h 33
 
 **Gognand :** n.m : *Grand, homme bête, niais.*
 
-**Golet** : *Petit trou (un golet de souris).C ’est aussi un nom de lieu-dit (Golet au loup, Golet à la chèvre, Golet Sapin…).*
+**Golet** : *Petit trou (un golet de souris).C ’est aussi un nom de lieu-dit (Golet au loup, Golet à la chèvre, Golet Sapin…).*
 
 **Goua ou gouaï :** n.m : *Serpe.*
 
 **Goutasser** : *Pleuvoir faiblement.*
 
-**Graboter** : *Gratter la terre en surface.*
+**Graboter** : *Gratter la terre en surface.*
 
-**Grand :** (en avoir) *: Estimation de surface. (Il en a assez grand pour 6 vaches).*
+**Grand :** (en avoir) *: Estimation de surface. (Il en a assez grand pour 6 vaches).*
 
 **Grapillon :** n.m : *Montée très raide.*
 
@@ -344,7 +344,7 @@ Le 10 novembre 2011, 03 h 33
 
 **Maître :** (aller à) : *Pour un jeune, aller travailler chez un patron comme domestique, valet de ferme, commis.* *(Après ton certificat, tu iras à maître).*
 
-**Mamiotter** : *Embrasser.*
+**Mamiotter** : *Embrasser.*
 
 **Manière de :** (c’est) : *C’est une façon comme une autre* *(c’est manière de dire quelque chose).*
 
@@ -358,7 +358,7 @@ Le 10 novembre 2011, 03 h 33
 
 **Minons :** inv. : *Amas de poussière (Il y a des minons sous le lit) .*
 
-**Miron** : n.m : *Chat.*
+**Miron** : n.m : *Chat.*
 
 **Mistifrisé** : *Tiré à quatre épingles* *(elle est mistifrisée pour aller à noce).*
 
@@ -412,7 +412,7 @@ Le 10 novembre 2011, 03 h 33
 
 **Plaindre** *: Economiser, fournir avec parcimonie* *(l’année a été mauvaise, on va plaindre les patates).*
 
-**Plan-plan** : *Lentement.*
+**Plan-plan** : *Lentement.*
 
 **Plat de lit :** (à) : *Etre couché, malade, sans se lever pendant une longue période.*
 
@@ -434,7 +434,7 @@ Le 10 novembre 2011, 03 h 33
 
 **Rabâte :** n.f : *Personne radoteuse.*
 
-**Rabistoquer** : *Rafistoler.*
+**Rabistoquer** : *Rafistoler.*
 
 **Rabolet :** n.m : *Personne de petite taille.*
 
@@ -466,7 +466,7 @@ Le 10 novembre 2011, 03 h 33
 
 **Rechaude :** (coucher à la) : *Dormir dans un lit qui n’a pas été fait.*
 
-**Regret :** (faire) *: Ecœurer, dégouter* *(Ca fait regret de le voir dans cet état).*
+**Regret :** (faire) *: Ecœurer, dégouter* *(Ca fait regret de le voir dans cet état).*
 
 **Relinger :** (se) : *Revêtir des vêtements propres.*
 
@@ -474,7 +474,7 @@ Le 10 novembre 2011, 03 h 33
 
 **Rife** :(de) : *A la suite* *(Il a plu pendant 3 jours de rife).*
 
-**Rippe** : n.f : *Terrain vague ou mal entretenu.*
+**Rippe** : n.f : *Terrain vague ou mal entretenu.*
 
 **Rondo** : *Vite, rapidement* *(une affaire menée rondo).*
 
@@ -492,7 +492,7 @@ Le 10 novembre 2011, 03 h 33
 
 **Taconner** : *Bricoler.*
 
-**Taillon** : *Morceau* *(un taillon de fromage ou de lard).*
+**Taillon** : *Morceau* *(un taillon de fromage ou de lard).*
 
 **Taisson ou tinson** : *Blaireau.*
 
@@ -500,7 +500,7 @@ Le 10 novembre 2011, 03 h 33
 
 **Tant que dure dure** : *Sans cesse* *(Ce chien aboie tant que dure dure).*
 
-**Tant soit peu** : *Un minimum ; un peu* *(Avoir un tant soit peu d’intelligence).*
+**Tant soit peu** : *Un minimum ; un peu* *(Avoir un tant soit peu d’intelligence).*
 
 **Tantôt** *: Après-midi* *(Il viendra dimanche tantôt).*
 
@@ -542,9 +542,9 @@ Le 10 novembre 2011, 03 h 33
 
 **Vingt zou** : *Juron.*
 
-**Viourne** : n.f : *Accordéon.*
+**Viourne** : n.f : *Accordéon.*
 
-**Viron** : n.m : *Petite promenade.*
+**Viron** : n.m : *Petite promenade.*
 
 **Vorvelle :** n.f : *Liseron.*
 

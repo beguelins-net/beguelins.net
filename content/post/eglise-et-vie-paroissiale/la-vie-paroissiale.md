@@ -2,15 +2,15 @@
 title: 'La vie paroissiale'
 status: 'published'
 author: 'geneb'
-category: eglise-et-vie-paroissiale
+category: 'eglise-et-vie-paroissiale'
 slug: 'la-vie-paroissiale'
 description: ''
 coverImage: ''
 publishedAt: '2011-11-15T13:46:43.000Z'
-date: 2011-11-15T13:46:43.000Z
+date: '2011-11-15T13:46:43.000Z'
 ---
 
-Le 15 novembre, 2011, 09 h 37
+Le 15 novembre, 2011, 09 h 37
 
 ![](/img/beguelins/Windows-Live-Writer/6f1b938a1457_12CAB/clip_image002_2.jpg)
 
@@ -18,9 +18,9 @@ Le 15 novembre, 2011, 09 h 37
 
 *Sortie d’église et communiants – années 1900*
 
-**Les curés de Lantenay jusqu’à l’an 2000** 
+**Les curés de Lantenay jusqu’à l’an 2000**
 
- *(liste Renoud)*
+ *(liste Renoud)*
 
 **1205** Pierre, chapelain
 
@@ -56,7 +56,7 @@ Le 15 novembre, 2011, 09 h 37
 
 ![](/img/beguelins/Windows-Live-Writer/6f1b938a1457_12CAB/clip_image006_2.jpg)
 
- 
+
 
 1872 à 1874 : Abbé J.J. **BERNOLLIN** (1836 – 1910), il écrivit à Mgr l’Evêque en 1874 pour lui soumettre la demande des habitants d’Outriaz *« … que cette commune soit érigée en paroisse… »*
 
@@ -80,7 +80,7 @@ de 1937 à 1956 : Abbé J.M.L. SAINT CYR (1895 – 1967), il a laissé beaucoup 
 
 1980 à 1984 : Abbé M. DONDE (1921 – 1984) - *« … parce que tu cherchais l’essentiel, tu n’aimais guère ceux qui se contentaient du futile ou de l’accessoire, ceux qui confondaient Foi et bricolage religieux… »*
 
-1984 à 1985 : Abbé M. LAUBEPIN (Né en 1941) - Curé à Nantua, il dessert la paroisse de Lantenay 
+1984 à 1985 : Abbé M. LAUBEPIN (Né en 1941) - Curé à Nantua, il dessert la paroisse de Lantenay
 
 1986 à 1999 : Abbé R. BARDET (1923 - 2000) - Les paroissiens de Lantenay gardent un souvenir de leur ancien prêtre, plein de tendresse et de respect des autres.
 
