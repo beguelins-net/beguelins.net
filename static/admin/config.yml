@@ -20,10 +20,10 @@ collections:  # A list of collections the CMS should be able to edit
       - { label: "Description", name: "description", widget: "text" }
       - { label: "Image", name: "image", widget: "image", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
-  - name: "pages"
-    label: "Pages"
+  - name: "home"
+    label: "Accueil"
     files:
-      - file: "content/pages/home.md"
+      - file: "content/_index.md"
         label: "Home Page"
         name: "home"
         fields:
