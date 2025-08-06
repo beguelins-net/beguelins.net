@@ -1,14 +1,15 @@
 ---
-publishedAt: '2011-11-15T13:04:22.000Z'
-coverImage: ''
+title: 'Le tacot'
+status: 'published'
 author: 'geneb'
 category: 'circuler-au-village'
 slug: 'le-tacot'
-date: '2011-11-15T06:33:00.000Z'
-status: 'published'
-title: 'Le tacot'
 description: 'Le tacot'
+coverImage: ''
+publishedAt: '2011-11-15T13:04:22.000Z'
+date: '2011-11-15T06:33:00.000Z'
 image: ''
+weight: 1
 ---
 
 le 15 novembre, 2011, 06h33
