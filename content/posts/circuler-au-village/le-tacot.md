@@ -8,6 +8,7 @@ date: '2011-11-15T06:33:00.000Z'
 status: 'published'
 title: 'Le tacot'
 description: 'Le tacot'
+image: ''
 ---
 
 le 15 novembre, 2011, 06h33
