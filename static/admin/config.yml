@@ -15,6 +15,9 @@ collections:  # A list of collections the CMS should be able to edit
     path: "{{fields.category}}/{{slug}}"  # Each document is inside a category folder with the slug name.
     nested:
       depth: 2
+      summary: "{{title}}"
+    view_groups:
+      - { label: "Category", field: "category" }
     create: true  # Allow users to create new documents in this collection
     fields:  # The fields each document in this collection has
       - { label: "Title", name: "title", widget: "string" }
