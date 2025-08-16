@@ -2,7 +2,7 @@
 title: 'Lantenay vu par …'
 status: 'published'
 author: 'geneb'
-category: histoire
+category: 'histoire'
 slug: 'lantenay-vu-par'
 description: 'Lantenay vu par ...'
 coverImage: ''
@@ -29,5 +29,3 @@ Le 8 novembre 2011, 12 h 22
 **Lantenay** est une commune du [Bugey](http://fr.wikipedia.org/wiki/Bugey) située dans "La Combe du Val", dans les plis du massif du Jura. Son territoire est délimité par les communes d'[Outriaz](http://fr.wikipedia.org/wiki/Outriaz), [Corcelles](http://fr.wikipedia.org/wiki/Corcelles_\(Ain\)), [Izenave](http://fr.wikipedia.org/wiki/Izenave) et [Vieu-d'Izenave](http://fr.wikipedia.org/wiki/Vieu-d%27Izenave). Ses habitants s'appellent les Béguelins.
 
 La commune comporte deux agglomérations, le village de Lantenay situé à 730 mètres d'altitude, et le hameau du Tremblay légèrement en contrebas.
-
-![](/img/beguelins/image-M0Nj.png)
