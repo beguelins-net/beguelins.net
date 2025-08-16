@@ -16,7 +16,6 @@ collections:  # A list of collections the CMS should be able to edit
     create: true  # Allow users to create new documents in this collection
     fields:  # The fields each document in this collection has
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Category", name: "category", widget: "string" }  # required because slug uses it
       - label: "Category"
         name: "category"
         widget: "select"
