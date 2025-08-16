@@ -1,16 +1,15 @@
 ---
-title: 'Home'
-status: 'published'
-author: 'geneb'
-category: 'pages'
-slug: 'home'
-description: 'Page d''accueil'
+title: Home
+date: 2022-03-17T06:35:00
+description: Page d'accueil
+status: published
+author: geneb
 coverImage: ''
-publishedAt: '2022-03-17T05:35:07.322Z'
-date: '2022-03-17T05:35:07.322Z'
+publishedAt: 2022-03-17T05:35:07.322Z
 weight: 1
+slug: home
+category: pages
 ---
-
 # Bienvenue sur le site de l'association Béguelins - Béguelines
 
 BÉGUELIN, gentilé des habitants de LANTENAY dans l’Ain, est sans doute issu du français bègue,
@@ -21,8 +20,8 @@ d’habitants : dans les petits villages, il existe souvent différentes associa
 pas toujours les moyens pour mettre en œuvre leurs projets ; « Béguelins, Béguelines »,
 tout en animant le village, a souhaité fédérer des moyens pour l’ensemble des associations du village.
 
-**Les béguelines de tous âges, d'origine et/ou d'adoption, ont fêté sainte Agathe cette année encore.
-Elles se sont retrouvées autour d'un bon repas à la "Veille Auberge" du Balmay.
-Ambiance conviviale avec des jeux culturels animés... et l'approche de mardi gras qui se fait sentir !**
+L'été est bien avancé et la canicule est là ! Même les nuits ne sont pas fraiches, même si elles sont belles !
 
-**![](/img/beguelins/image-Y2NT.png)**
+Merci Mathieu.
+
+![](/img/Aout_2025.jpg)
