@@ -1,5 +1,6 @@
 .idea/
 .direnv/
+.junie/
 *.iml
 
 # Generated files by hugo
