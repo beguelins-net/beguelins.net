@@ -1,6 +1,7 @@
-title = "Site web de l'association Béguelins-Béguelines"
 baseURL = "https://dev.beguelins.net"
-theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+locale = 'fr-fr'
+title = "Site web de l'association Béguelins-Béguelines"
+theme = "github.com/gohugo-ananke/ananke/v2"
 resourceDir = "../resources"
 
 defaultContentLanguage = "fr"
@@ -13,15 +14,7 @@ id = ''
 [pagination]
 pagerSize = 5 # this is set low for demonstrating with dummy content. Set to a higher number
 
-[languages.en]
-contentDir = "content/en"
-locale = 'en-US'
-weight = 2
-title = "Béguelins-Béguelines non-profit association's website"
-# language.Direction = 'rtl' for Right-To-Left languages
-
 [languages.fr]
-contentDir = "content/fr"
 locale = 'fr-FR'
 weight = 1
 title = "Site web de l'association Béguelins-Béguelines"

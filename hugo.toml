@@ -1,4 +1,0 @@
-baseURL = 'https://dev.beguelins.net/'
-locale = 'fr-fr'
-title = "Site web de l'association Béguelins-Béguelines"
-theme = 'ananke'
